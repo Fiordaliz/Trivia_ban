@@ -1,0 +1,40 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+
+
+body{
+
+}
+
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  margin-right: 100px;
+  float: center;
+}
+
+button {
+  padding: 100px 100px;
+}
+
+
+button {
+  font-size: 30px;
+  padding: 18px 22px;
+  border: none;
+  border-radius: 18px;
+  background-color: #40916c;
+  color: #fff;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-family:cursive;
+}
